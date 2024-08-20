@@ -36,6 +36,6 @@ The dataset used in this project is sourced from Kaggle: [Animal Image Dataset](
 To run this project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/elephant-image-classification.git
+git clone https://github.com/rTalhaa/Edge-Detection-and-Image-Classification.git
 cd elephant-image-classification
 pip install -r requirements.txt
