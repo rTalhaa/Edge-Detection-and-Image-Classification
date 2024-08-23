@@ -1,10 +1,10 @@
 # Image Processing and Classification Projects
 
-This repository contains two image processing projects: one for elephant image classification and another for making image backgrounds transparent.
+This repository contains two image processing projects: **HOG Feature Extraction and SVM Classifier** and **Image Segmentation for Background Transparency**.
 
 ## Projects Overview
 
-### 1. Elephant Image Classification
+### 1. HOG Feature Extraction and SVM Classifier (`HOG_FeatureExtraction_and_SVM.ipynb`)
 This project focuses on creating an image classification pipeline to detect whether an image contains an elephant. The pipeline integrates advanced image processing techniques, including edge detection and Histogram of Oriented Gradients (HOG), and utilizes a Support Vector Machine (SVM) classifier for accurate prediction.
 
 #### Approach
@@ -22,7 +22,7 @@ This project focuses on creating an image classification pipeline to detect whet
 #### Dataset
 - The dataset is sourced from Kaggle's Animal Image Dataset, containing images of 90 different animal species. The elephant images were used as the positive class, while all other animals were merged into a single negative class.
 
-### 2. Image Background Transparency Processor
+### 2. Image Segmentation for Background Transparency (`Image_Segmentation.ipynb`)
 This project provides a Python script that processes an image to make its background transparent. The script uses OpenCV for image processing and Matplotlib for visual comparison of the original and processed images.
 
 #### Key Features:
